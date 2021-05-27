@@ -157,6 +157,7 @@ h4 {
 	width: 140px;
 	height: 40px;
 	padding-top: 19px;
+	font-family: 'Harry Potter';
 	font-size: 18px;
 	text-align: center;
 	font-weight: normal;
@@ -189,6 +190,7 @@ h4 {
 	text-align: center;
 }
 
+
 #site_title h1 a {
 	margin: 0px;
 	padding: 0px;
@@ -196,6 +198,8 @@ h4 {
 	color: #cdcf19;
 	font-weight: normal;
 	text-decoration: none;
+	font-family: 'Harry Potter', sans-serif;
+	/* font-family:'Courier New', Courier, monospace; */
 }
 
 #site_title h1 a:hover {
@@ -218,6 +222,8 @@ h4 {
 	line-height: 30px;
 	color: #565546;
 }
+
+
 /* end of banner */
 
 /* content */
