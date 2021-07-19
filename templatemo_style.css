@@ -241,7 +241,7 @@ h4 {
 	height: 28px;
 	padding: 0;
 	margin: 0 0 25px 0;
-	font-size: 24px;
+	font-size: 25px;
 }
 
 #templatemo_content h2 span {
@@ -263,8 +263,8 @@ h4 {
 }
 
 #main_column {
-	float: right;
-	width: 540px;
+	// float: right;
+	// width: 540px;
 }
 
 #main_column h2 {
@@ -301,6 +301,7 @@ h4 {
 	margin-bottom: 25px;
 }
 
+/*
 .inputfield {
 	height: 16px;
 	width: 245px;
@@ -321,7 +322,7 @@ h4 {
 	vertical-align: bottom;
 	white-space: pre;
 }
-
+*/
 .section_w540 {
 	clear: both;
 	width: 540px;
